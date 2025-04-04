@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35728.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "webCamCaptureApp", "webCamCaptureApp\webCamCaptureApp.csproj", "{134FD4F6-583B-41CD-9156-83D9AFFD9823}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Cam Capture", "Cam Capture\Cam Capture.vdproj", "{063CF0B1-D036-4A26-A70E-B4D566B29E9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134FD4F6-583B-41CD-9156-83D9AFFD9823}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134FD4F6-583B-41CD-9156-83D9AFFD9823}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134FD4F6-583B-41CD-9156-83D9AFFD9823}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134FD4F6-583B-41CD-9156-83D9AFFD9823}.Release|Any CPU.Build.0 = Release|Any CPU
+		{063CF0B1-D036-4A26-A70E-B4D566B29E9E}.Debug|Any CPU.ActiveCfg = Debug
+		{063CF0B1-D036-4A26-A70E-B4D566B29E9E}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
