@@ -46,15 +46,17 @@ Each image is saved with a timestamp.
 ## 🖥 Screenshots
 
 ![dashboard](https://github.com/Chandupa1999/Webcam-Timed-Capture-App/blob/e79c234c2f724c50e2376e3b50231c999c4e1573/Images/dashboard.PNG)
-
-
-
+![dashboard](https://github.com/Chandupa1999/Webcam-Timed-Capture-App/blob/5a218eb03b7d5259a756da263c54b4571bf66813/Images/CameraConnected.PNG)
+![dashboard](https://github.com/Chandupa1999/Webcam-Timed-Capture-App/blob/5a218eb03b7d5259a756da263c54b4571bf66813/Images/Select_Capturing_Interval.png)
+![dashboard](https://github.com/Chandupa1999/Webcam-Timed-Capture-App/blob/5a218eb03b7d5259a756da263c54b4571bf66813/Images/start_capture.PNG)
+![dashboard](https://github.com/Chandupa1999/Webcam-Timed-Capture-App/blob/5a218eb03b7d5259a756da263c54b4571bf66813/Images/Stop_capturing.PNG)
+![dashboard](https://github.com/Chandupa1999/Webcam-Timed-Capture-App/blob/5a218eb03b7d5259a756da263c54b4571bf66813/Images/error1.PNG)
 
 ---
 
-## 📂 Folder Structure
+## 📂 Setup file
 
-Captured images are saved in:
+Setup file is also included.
 
 
 👨‍💻 Author
