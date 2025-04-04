@@ -45,6 +45,10 @@ Each image is saved with a timestamp.
 
 ## 🖥 Screenshots
 
+![dashboard](https://github.com/Chandupa1999/Webcam-Timed-Capture-App/blob/e79c234c2f724c50e2376e3b50231c999c4e1573/Images/dashboard.PNG)
+
+
+
 
 ---
 
